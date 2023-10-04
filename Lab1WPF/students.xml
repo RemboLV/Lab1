@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Elvis</Name>
+    <Surname>Igaunis</Surname>
+    <Id>181RDB100</Id>
+    <Group>1. Grupa</Group>
+    <Email>elvis.igaunis@inbox.lv</Email>
+  </Student>
+</ArrayOfStudent>
